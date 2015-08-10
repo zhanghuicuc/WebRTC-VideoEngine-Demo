@@ -1,80 +1,0 @@
-10
-
-dir
-6931
-http://webrtc.googlecode.com/svn/trunk/webrtc/modules/video_coding/codecs
-http://webrtc.googlecode.com/svn
-
-
-
-2014-08-05T17:10:52.907291Z
-6827
-fbarchard@google.com
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-4adac7df-926f-26a2-2b94-8c16560cd09d
-
-test
-dir
-
-tools
-dir
-
-interface
-dir
-
-test_framework
-dir
-
-vp8
-dir
-
-OWNERS
-file
-
-
-
-
-2014-08-20T03:29:15.894259Z
-dc48c23ad81faeedcd879a7013047dbf
-2012-10-22T18:19:23.224883Z
-2963
-andrew@webrtc.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-79
-
-i420
-dir
-
