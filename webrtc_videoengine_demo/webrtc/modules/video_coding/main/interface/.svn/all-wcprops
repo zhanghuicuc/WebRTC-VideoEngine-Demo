@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6905/trunk/webrtc/modules/video_coding/main/interface
+END
+video_coding.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6905/trunk/webrtc/modules/video_coding/main/interface/video_coding.h
+END
+video_coding_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6603/trunk/webrtc/modules/video_coding/main/interface/video_coding_defines.h
+END

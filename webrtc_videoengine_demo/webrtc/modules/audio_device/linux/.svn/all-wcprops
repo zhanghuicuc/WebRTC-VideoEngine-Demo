@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6218/trunk/webrtc/modules/audio_device/linux
+END
+alsasymboltable_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4330/trunk/webrtc/modules/audio_device/linux/alsasymboltable_linux.cc
+END
+latebindingsymboltable_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4330/trunk/webrtc/modules/audio_device/linux/latebindingsymboltable_linux.cc
+END
+latebindingsymboltable_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6218/trunk/webrtc/modules/audio_device/linux/latebindingsymboltable_linux.h
+END
+audio_device_alsa_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5831/trunk/webrtc/modules/audio_device/linux/audio_device_alsa_linux.cc
+END
+alsasymboltable_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4330/trunk/webrtc/modules/audio_device/linux/alsasymboltable_linux.h
+END
+audio_device_alsa_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5831/trunk/webrtc/modules/audio_device/linux/audio_device_alsa_linux.h
+END
+audio_device_pulse_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5831/trunk/webrtc/modules/audio_device/linux/audio_device_pulse_linux.cc
+END
+audio_device_pulse_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5831/trunk/webrtc/modules/audio_device/linux/audio_device_pulse_linux.h
+END
+audio_mixer_manager_alsa_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4486/trunk/webrtc/modules/audio_device/linux/audio_mixer_manager_alsa_linux.cc
+END
+audio_mixer_manager_alsa_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4330/trunk/webrtc/modules/audio_device/linux/audio_mixer_manager_alsa_linux.h
+END
+audio_device_utility_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4738/trunk/webrtc/modules/audio_device/linux/audio_device_utility_linux.cc
+END
+audio_device_utility_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4426/trunk/webrtc/modules/audio_device/linux/audio_device_utility_linux.h
+END
+audio_mixer_manager_pulse_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4486/trunk/webrtc/modules/audio_device/linux/audio_mixer_manager_pulse_linux.cc
+END
+pulseaudiosymboltable_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4330/trunk/webrtc/modules/audio_device/linux/pulseaudiosymboltable_linux.cc
+END
+audio_mixer_manager_pulse_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4330/trunk/webrtc/modules/audio_device/linux/audio_mixer_manager_pulse_linux.h
+END
+pulseaudiosymboltable_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4330/trunk/webrtc/modules/audio_device/linux/pulseaudiosymboltable_linux.h
+END

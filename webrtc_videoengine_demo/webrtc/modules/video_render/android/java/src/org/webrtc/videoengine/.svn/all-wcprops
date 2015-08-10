@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5865/trunk/webrtc/modules/video_render/android/java/src/org/webrtc/videoengine
+END
+ViEAndroidGLES20.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4284/trunk/webrtc/modules/video_render/android/java/src/org/webrtc/videoengine/ViEAndroidGLES20.java
+END
+ViESurfaceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4284/trunk/webrtc/modules/video_render/android/java/src/org/webrtc/videoengine/ViESurfaceRenderer.java
+END
+ViERenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5865/trunk/webrtc/modules/video_render/android/java/src/org/webrtc/videoengine/ViERenderer.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3789/trunk/webrtc/modules/audio_coding/codecs/ilbc/test
+END
+iLBC_testLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3789/trunk/webrtc/modules/audio_coding/codecs/ilbc/test/iLBC_testLib.c
+END
+iLBC_testprogram.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3789/trunk/webrtc/modules/audio_coding/codecs/ilbc/test/iLBC_testprogram.c
+END
+iLBC_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3789/trunk/webrtc/modules/audio_coding/codecs/ilbc/test/iLBC_test.c
+END
+iLBCtestscript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_coding/codecs/ilbc/test/iLBCtestscript.txt
+END

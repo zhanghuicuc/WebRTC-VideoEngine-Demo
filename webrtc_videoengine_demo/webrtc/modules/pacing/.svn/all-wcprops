@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6694/trunk/webrtc/modules/pacing
+END
+paced_sender_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6664/trunk/webrtc/modules/pacing/paced_sender_unittest.cc
+END
+paced_sender.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6694/trunk/webrtc/modules/pacing/paced_sender.cc
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6523/trunk/webrtc/modules/pacing/BUILD.gn
+END
+pacing.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4856/trunk/webrtc/modules/pacing/pacing.gypi
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6523/trunk/webrtc/modules/pacing/OWNERS
+END

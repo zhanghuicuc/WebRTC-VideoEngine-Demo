@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4511/trunk/webrtc/modules/audio_device/test/android/audio_device_android_test
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_device/test/android/audio_device_android_test/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_device/test/android/audio_device_android_test/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_device/test/android/audio_device_android_test/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_device/test/android/audio_device_android_test/AndroidManifest.xml
+END

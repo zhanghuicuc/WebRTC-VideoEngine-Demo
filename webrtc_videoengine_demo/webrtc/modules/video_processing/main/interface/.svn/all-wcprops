@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6688/trunk/webrtc/modules/video_processing/main/interface
+END
+video_processing_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4912/trunk/webrtc/modules/video_processing/main/interface/video_processing_defines.h
+END
+video_processing.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6688/trunk/webrtc/modules/video_processing/main/interface/video_processing.h
+END

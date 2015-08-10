@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/external
+END
+video_render_external_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/external/video_render_external_impl.cc
+END
+video_render_external_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/external/video_render_external_impl.h
+END

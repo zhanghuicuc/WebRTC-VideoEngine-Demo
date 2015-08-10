@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6882/trunk/webrtc/modules/audio_coding/neteq
+END
+decoder_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decoder_database.h
+END
+neteq_stereo_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/neteq_stereo_unittest.cc
+END
+neteq_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/neteq/neteq_impl.cc
+END
+timestamp_scaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/timestamp_scaler.h
+END
+neteq.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6490/trunk/webrtc/modules/audio_coding/neteq/neteq.gypi
+END
+statistics_calculator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/statistics_calculator.cc
+END
+audio_classifier_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_classifier_unittest.cc
+END
+sync_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/sync_buffer.cc
+END
+statistics_calculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/statistics_calculator.h
+END
+rtcp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/rtcp.cc
+END
+comfort_noise.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/comfort_noise.h
+END
+decision_logic_fax.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decision_logic_fax.cc
+END
+neteq_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6865/trunk/webrtc/modules/audio_coding/neteq/neteq_unittest.cc
+END
+decision_logic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decision_logic.h
+END
+background_noise.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/neteq/background_noise.cc
+END
+expand_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/expand_unittest.cc
+END
+payload_splitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/payload_splitter.cc
+END
+payload_splitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/payload_splitter.h
+END
+neteq_tests.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6862/trunk/webrtc/modules/audio_coding/neteq/neteq_tests.gypi
+END
+decision_logic_normal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decision_logic_normal.cc
+END
+dtmf_buffer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dtmf_buffer_unittest.cc
+END
+audio_decoder_unittests.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_decoder_unittests.isolate
+END
+audio_vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_vector.cc
+END
+dtmf_tone_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dtmf_tone_generator.cc
+END
+dsp_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dsp_helper.cc
+END
+audio_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_vector.h
+END
+delay_peak_detector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/delay_peak_detector_unittest.cc
+END
+decoder_database_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decoder_database_unittest.cc
+END
+normal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/normal.cc
+END
+accelerate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/accelerate.h
+END
+delay_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/delay_manager.h
+END
+timestamp_scaler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6736/trunk/webrtc/modules/audio_coding/neteq/timestamp_scaler.cc
+END
+time_stretch.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/time_stretch.h
+END
+audio_multi_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_multi_vector.h
+END
+packet_buffer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/packet_buffer_unittest.cc
+END
+merge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/merge.cc
+END
+random_vector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/random_vector_unittest.cc
+END
+merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/merge.h
+END
+random_vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/random_vector.cc
+END
+audio_classifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_classifier.cc
+END
+buffer_level_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/buffer_level_filter.h
+END
+audio_decoder_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_decoder_impl.cc
+END
+audio_decoder_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_decoder_impl.h
+END
+payload_splitter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6736/trunk/webrtc/modules/audio_coding/neteq/payload_splitter_unittest.cc
+END
+audio_vector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_vector_unittest.cc
+END
+decision_logic_normal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decision_logic_normal.h
+END
+audio_decoder_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6736/trunk/webrtc/modules/audio_coding/neteq/audio_decoder_unittest.cc
+END
+audio_decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6736/trunk/webrtc/modules/audio_coding/neteq/audio_decoder.cc
+END
+accelerate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/accelerate.cc
+END
+delay_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/delay_manager.cc
+END
+decoder_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decoder_database.cc
+END
+audio_multi_vector_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_multi_vector_unittest.cc
+END
+merge_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/merge_unittest.cc
+END
+neteq_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/neteq/neteq_impl.h
+END
+packet_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/packet_buffer.h
+END
+random_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/random_vector.h
+END
+buffer_level_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/buffer_level_filter_unittest.cc
+END
+sync_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/sync_buffer.h
+END
+packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/packet.h
+END
+background_noise_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/background_noise_unittest.cc
+END
+neteq.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/neteq/neteq.cc
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/defines.h
+END
+post_decode_vad_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/post_decode_vad_unittest.cc
+END
+post_decode_vad.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/post_decode_vad.cc
+END
+normal_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/normal_unittest.cc
+END
+dtmf_tone_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dtmf_tone_generator.h
+END
+dsp_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dsp_helper.h
+END
+timestamp_scaler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6736/trunk/webrtc/modules/audio_coding/neteq/timestamp_scaler_unittest.cc
+END
+neteq_impl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/neteq/neteq_impl_unittest.cc
+END
+audio_multi_vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_multi_vector.cc
+END
+packet_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/packet_buffer.cc
+END
+neteq_external_decoder_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/neteq_external_decoder_unittest.cc
+END
+sync_buffer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/sync_buffer_unittest.cc
+END
+buffer_level_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/buffer_level_filter.cc
+END
+comfort_noise_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/comfort_noise_unittest.cc
+END
+comfort_noise.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/comfort_noise.cc
+END
+audio_classifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/audio_classifier.h
+END
+decision_logic_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decision_logic_unittest.cc
+END
+rtcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/rtcp.h
+END
+decision_logic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decision_logic.cc
+END
+decision_logic_fax.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/decision_logic_fax.h
+END
+background_noise.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/neteq/background_noise.h
+END
+preemptive_expand.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/preemptive_expand.cc
+END
+expand.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6882/trunk/webrtc/modules/audio_coding/neteq/expand.cc
+END
+expand.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/expand.h
+END
+preemptive_expand.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/preemptive_expand.h
+END
+dtmf_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dtmf_buffer.cc
+END
+post_decode_vad.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/post_decode_vad.h
+END
+dtmf_tone_generator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dtmf_tone_generator_unittest.cc
+END
+dsp_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dsp_helper_unittest.cc
+END
+dtmf_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/dtmf_buffer.h
+END
+delay_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/delay_manager_unittest.cc
+END
+delay_peak_detector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/delay_peak_detector.cc
+END
+delay_peak_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/delay_peak_detector.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6379/trunk/webrtc/modules/audio_coding/neteq/OWNERS
+END
+time_stretch_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/time_stretch_unittest.cc
+END
+time_stretch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/time_stretch.cc
+END
+normal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/neteq/normal.h
+END

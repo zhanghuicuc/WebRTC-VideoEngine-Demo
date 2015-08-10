@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6724/trunk/webrtc/modules/audio_processing/utility
+END
+fft4g.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/utility/fft4g.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3107/trunk/webrtc/modules/audio_processing/utility/Android.mk
+END
+delay_estimator_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6631/trunk/webrtc/modules/audio_processing/utility/delay_estimator_wrapper.c
+END
+delay_estimator.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6593/trunk/webrtc/modules/audio_processing/utility/delay_estimator.c
+END
+delay_estimator_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3436/trunk/webrtc/modules/audio_processing/utility/delay_estimator_internal.h
+END
+delay_estimator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6631/trunk/webrtc/modules/audio_processing/utility/delay_estimator_unittest.cc
+END
+ring_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4116/trunk/webrtc/modules/audio_processing/utility/ring_buffer.c
+END
+ring_buffer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6724/trunk/webrtc/modules/audio_processing/utility/ring_buffer_unittest.cc
+END
+delay_estimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6593/trunk/webrtc/modules/audio_processing/utility/delay_estimator.h
+END
+delay_estimator_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6631/trunk/webrtc/modules/audio_processing/utility/delay_estimator_wrapper.h
+END
+fft4g.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/utility/fft4g.c
+END
+ring_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3574/trunk/webrtc/modules/audio_processing/utility/ring_buffer.h
+END

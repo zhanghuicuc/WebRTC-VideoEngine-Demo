@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5827/trunk/webrtc/modules/video_capture/windows
+END
+video_capture_mf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/video_capture_mf.cc
+END
+device_info_mf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/device_info_mf.cc
+END
+video_capture_mf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/video_capture_mf.h
+END
+device_info_mf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/device_info_mf.h
+END
+video_capture_ds.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/video_capture_ds.cc
+END
+sink_filter_ds.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5827/trunk/webrtc/modules/video_capture/windows/sink_filter_ds.cc
+END
+device_info_ds.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4840/trunk/webrtc/modules/video_capture/windows/device_info_ds.cc
+END
+sink_filter_ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/sink_filter_ds.h
+END
+video_capture_ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/video_capture_ds.h
+END
+device_info_ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4840/trunk/webrtc/modules/video_capture/windows/device_info_ds.h
+END
+help_functions_ds.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/help_functions_ds.cc
+END
+help_functions_ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4293/trunk/webrtc/modules/video_capture/windows/help_functions_ds.h
+END
+video_capture_factory_windows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4337/trunk/webrtc/modules/video_capture/windows/video_capture_factory_windows.cc
+END

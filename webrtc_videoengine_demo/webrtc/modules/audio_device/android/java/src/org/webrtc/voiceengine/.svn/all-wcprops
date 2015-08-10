@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5270/trunk/webrtc/modules/audio_device/android/java/src/org/webrtc/voiceengine
+END
+WebRtcAudioRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5270/trunk/webrtc/modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioRecord.java
+END
+WebRtcAudioTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5270/trunk/webrtc/modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioTrack.java
+END
+AudioManagerAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4951/trunk/webrtc/modules/audio_device/android/java/src/org/webrtc/voiceengine/AudioManagerAndroid.java
+END

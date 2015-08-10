@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6867/trunk/webrtc/modules/video_render/windows
+END
+i_video_render_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/windows/i_video_render_win.h
+END
+video_render_direct3d9.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6867/trunk/webrtc/modules/video_render/windows/video_render_direct3d9.cc
+END
+video_render_windows_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/windows/video_render_windows_impl.cc
+END
+video_render_direct3d9.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/windows/video_render_direct3d9.h
+END
+video_render_windows_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/windows/video_render_windows_impl.h
+END

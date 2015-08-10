@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6867/trunk/webrtc/modules/video_render
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6523/trunk/webrtc/modules/video_render/BUILD.gn
+END
+i_video_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4334/trunk/webrtc/modules/video_render/i_video_render.h
+END
+video_render_tests.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6427/trunk/webrtc/modules/video_render/video_render_tests.isolate
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3027/trunk/webrtc/modules/video_render/Android.mk
+END
+video_render_frames.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6258/trunk/webrtc/modules/video_render/video_render_frames.cc
+END
+video_render_frames.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5373/trunk/webrtc/modules/video_render/video_render_frames.h
+END
+incoming_video_stream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4530/trunk/webrtc/modules/video_render/incoming_video_stream.cc
+END
+incoming_video_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4530/trunk/webrtc/modules/video_render/incoming_video_stream.h
+END
+video_render_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4734/trunk/webrtc/modules/video_render/video_render_impl.cc
+END
+video_render_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4530/trunk/webrtc/modules/video_render/video_render_impl.h
+END
+video_render.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6068/trunk/webrtc/modules/video_render/video_render.gypi
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6578/trunk/webrtc/modules/video_render/OWNERS
+END

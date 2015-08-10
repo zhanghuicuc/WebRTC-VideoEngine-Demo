@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/interface/mock
+END
+mock_vcm_callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/interface/mock/mock_vcm_callbacks.h
+END

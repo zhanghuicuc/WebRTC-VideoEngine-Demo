@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6713/trunk/webrtc/modules/media_file
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6523/trunk/webrtc/modules/media_file/BUILD.gn
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6523/trunk/webrtc/modules/media_file/OWNERS
+END

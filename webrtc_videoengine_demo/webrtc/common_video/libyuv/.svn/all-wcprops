@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5985/trunk/webrtc/common_video/libyuv
+END
+webrtc_libyuv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4668/trunk/webrtc/common_video/libyuv/webrtc_libyuv.cc
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2963/trunk/webrtc/common_video/libyuv/Android.mk
+END
+scaler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5985/trunk/webrtc/common_video/libyuv/scaler_unittest.cc
+END
+scaler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4668/trunk/webrtc/common_video/libyuv/scaler.cc
+END
+libyuv_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5985/trunk/webrtc/common_video/libyuv/libyuv_unittest.cc
+END

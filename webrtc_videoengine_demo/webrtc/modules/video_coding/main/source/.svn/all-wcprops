@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6838/trunk/webrtc/modules/video_coding/main/source
+END
+jitter_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6218/trunk/webrtc/modules/video_coding/main/source/jitter_buffer.h
+END
+media_opt_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6709/trunk/webrtc/modules/video_coding/main/source/media_opt_util.h
+END
+generic_decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6187/trunk/webrtc/modules/video_coding/main/source/generic_decoder.cc
+END
+codec_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/codec_database.h
+END
+video_sender_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6669/trunk/webrtc/modules/video_coding/main/source/video_sender_unittest.cc
+END
+video_sender.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/video_sender.cc
+END
+qm_select_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/qm_select_data.h
+END
+video_coding_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/video_coding_impl.cc
+END
+inter_frame_delay.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/inter_frame_delay.h
+END
+video_coding_test.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6838/trunk/webrtc/modules/video_coding/main/source/video_coding_test.gypi
+END
+qm_select.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/qm_select.cc
+END
+rtt_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/rtt_filter.cc
+END
+fec_tables_xor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4293/trunk/webrtc/modules/video_coding/main/source/fec_tables_xor.h
+END
+media_optimization_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/media_optimization_unittest.cc
+END
+jitter_estimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/jitter_estimator.h
+END
+timestamp_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/timestamp_map.h
+END
+receiver_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/receiver_unittest.cc
+END
+jitter_buffer_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4614/trunk/webrtc/modules/video_coding/main/source/jitter_buffer_common.h
+END
+decoding_state_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5046/trunk/webrtc/modules/video_coding/main/source/decoding_state_unittest.cc
+END
+generic_encoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6804/trunk/webrtc/modules/video_coding/main/source/generic_encoder.cc
+END
+video_coding_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6601/trunk/webrtc/modules/video_coding/main/source/video_coding_impl.h
+END
+video_coding.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6074/trunk/webrtc/modules/video_coding/main/source/video_coding.gypi
+END
+generic_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5358/trunk/webrtc/modules/video_coding/main/source/generic_encoder.h
+END
+codec_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4874/trunk/webrtc/modules/video_coding/main/source/codec_timer.h
+END
+rtt_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/rtt_filter.h
+END
+media_optimization.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6562/trunk/webrtc/modules/video_coding/main/source/media_optimization.cc
+END
+timing.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6653/trunk/webrtc/modules/video_coding/main/source/timing.cc
+END
+jitter_estimator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/jitter_estimator.cc
+END
+timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6653/trunk/webrtc/modules/video_coding/main/source/timing.h
+END
+session_info_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4667/trunk/webrtc/modules/video_coding/main/source/session_info_unittest.cc
+END
+content_metrics_processing.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/content_metrics_processing.h
+END
+session_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6825/trunk/webrtc/modules/video_coding/main/source/session_info.cc
+END
+timestamp_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/timestamp_map.cc
+END
+codec_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6607/trunk/webrtc/modules/video_coding/main/source/codec_database.cc
+END
+generic_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/generic_decoder.h
+END
+receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/receiver.h
+END
+packet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6804/trunk/webrtc/modules/video_coding/main/source/packet.cc
+END
+inter_frame_delay.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/inter_frame_delay.cc
+END
+packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5911/trunk/webrtc/modules/video_coding/main/source/packet.h
+END
+encoded_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6804/trunk/webrtc/modules/video_coding/main/source/encoded_frame.cc
+END
+qm_select_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/qm_select_unittest.cc
+END
+encoded_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/encoded_frame.h
+END
+decoding_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/decoding_state.h
+END
+video_coding_robustness_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/video_coding_robustness_unittest.cc
+END
+frame_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5911/trunk/webrtc/modules/video_coding/main/source/frame_buffer.cc
+END
+nack_fec_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4293/trunk/webrtc/modules/video_coding/main/source/nack_fec_tables.h
+END
+frame_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4688/trunk/webrtc/modules/video_coding/main/source/frame_buffer.h
+END
+timing_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4486/trunk/webrtc/modules/video_coding/main/source/timing_unittest.cc
+END
+jitter_buffer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6188/trunk/webrtc/modules/video_coding/main/source/jitter_buffer_unittest.cc
+END
+er_tables_xor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4293/trunk/webrtc/modules/video_coding/main/source/er_tables_xor.h
+END
+jitter_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6804/trunk/webrtc/modules/video_coding/main/source/jitter_buffer.cc
+END
+content_metrics_processing.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/content_metrics_processing.cc
+END
+media_opt_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6709/trunk/webrtc/modules/video_coding/main/source/media_opt_util.cc
+END
+session_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6804/trunk/webrtc/modules/video_coding/main/source/session_info.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6074/trunk/webrtc/modules/video_coding/main/source/Android.mk
+END
+receiver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/receiver.cc
+END
+internal_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6607/trunk/webrtc/modules/video_coding/main/source/internal_defines.h
+END
+decoding_state.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5046/trunk/webrtc/modules/video_coding/main/source/decoding_state.cc
+END
+codec_timer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4874/trunk/webrtc/modules/video_coding/main/source/codec_timer.cc
+END
+qm_select.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/main/source/qm_select.h
+END
+media_optimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6562/trunk/webrtc/modules/video_coding/main/source/media_optimization.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5903/trunk/webrtc/modules/video_coding/main/source/OWNERS
+END
+video_receiver_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5887/trunk/webrtc/modules/video_coding/main/source/video_receiver_unittest.cc
+END
+video_receiver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6601/trunk/webrtc/modules/video_coding/main/source/video_receiver.cc
+END

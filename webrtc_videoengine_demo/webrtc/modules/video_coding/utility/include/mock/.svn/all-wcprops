@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/utility/include/mock
+END
+mock_frame_dropper.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4348/trunk/webrtc/modules/video_coding/utility/include/mock/mock_frame_dropper.h
+END

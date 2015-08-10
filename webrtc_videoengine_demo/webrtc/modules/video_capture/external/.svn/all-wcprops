@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4401/trunk/webrtc/modules/video_capture/external
+END
+video_capture_external.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4397/trunk/webrtc/modules/video_capture/external/video_capture_external.cc
+END
+device_info_external.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4401/trunk/webrtc/modules/video_capture/external/device_info_external.cc
+END

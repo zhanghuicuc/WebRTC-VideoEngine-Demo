@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios
+END
+video_render_ios_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios/video_render_ios_view.h
+END
+video_render_ios_channel.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios/video_render_ios_channel.mm
+END
+video_render_ios_view.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios/video_render_ios_view.mm
+END
+video_render_ios_gles20.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4734/trunk/webrtc/modules/video_render/ios/video_render_ios_gles20.h
+END
+open_gles20.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4734/trunk/webrtc/modules/video_render/ios/open_gles20.h
+END
+video_render_ios_gles20.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios/video_render_ios_gles20.mm
+END
+open_gles20.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios/open_gles20.mm
+END
+video_render_ios_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios/video_render_ios_impl.h
+END
+video_render_ios_impl.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5770/trunk/webrtc/modules/video_render/ios/video_render_ios_impl.mm
+END
+video_render_ios_channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4734/trunk/webrtc/modules/video_render/ios/video_render_ios_channel.h
+END

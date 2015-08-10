@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6698/trunk/webrtc/modules/desktop_capture/win
+END
+scoped_thread_desktop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4175/trunk/webrtc/modules/desktop_capture/win/scoped_thread_desktop.cc
+END
+scoped_thread_desktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6218/trunk/webrtc/modules/desktop_capture/win/scoped_thread_desktop.h
+END
+cursor_unittest_resources.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4210/trunk/webrtc/modules/desktop_capture/win/cursor_unittest_resources.h
+END
+desktop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4175/trunk/webrtc/modules/desktop_capture/win/desktop.cc
+END
+window_capture_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6213/trunk/webrtc/modules/desktop_capture/win/window_capture_utils.cc
+END
+desktop.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6218/trunk/webrtc/modules/desktop_capture/win/desktop.h
+END
+cursor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5985/trunk/webrtc/modules/desktop_capture/win/cursor_unittest.cc
+END
+window_capture_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5732/trunk/webrtc/modules/desktop_capture/win/window_capture_utils.h
+END
+cursor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6698/trunk/webrtc/modules/desktop_capture/win/cursor.cc
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4994/trunk/webrtc/modules/desktop_capture/win/cursor.h
+END
+screen_capturer_win_magnifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6221/trunk/webrtc/modules/desktop_capture/win/screen_capturer_win_magnifier.cc
+END
+screen_capture_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6221/trunk/webrtc/modules/desktop_capture/win/screen_capture_utils.cc
+END
+screen_capturer_win_magnifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6218/trunk/webrtc/modules/desktop_capture/win/screen_capturer_win_magnifier.h
+END
+screen_capturer_win_gdi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6499/trunk/webrtc/modules/desktop_capture/win/screen_capturer_win_gdi.cc
+END
+screen_capture_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6053/trunk/webrtc/modules/desktop_capture/win/screen_capture_utils.h
+END
+cursor_unittest_resources.rc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4210/trunk/webrtc/modules/desktop_capture/win/cursor_unittest_resources.rc
+END
+screen_capturer_win_gdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6053/trunk/webrtc/modules/desktop_capture/win/screen_capturer_win_gdi.h
+END
+scoped_gdi_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6218/trunk/webrtc/modules/desktop_capture/win/scoped_gdi_object.h
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6920/trunk/webrtc/modules/audio_processing/ns
+END
+nsx_core_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6920/trunk/webrtc/modules/audio_processing/ns/nsx_core_neon.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3107/trunk/webrtc/modules/audio_processing/ns/Android.mk
+END
+nsx_core_mips.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5393/trunk/webrtc/modules/audio_processing/ns/nsx_core_mips.c
+END
+nsx_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/ns/nsx_defines.h
+END
+noise_suppression_x.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4116/trunk/webrtc/modules/audio_processing/ns/noise_suppression_x.c
+END
+nsx_core_neon.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4411/trunk/webrtc/modules/audio_processing/ns/nsx_core_neon.S
+END
+nsx_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6444/trunk/webrtc/modules/audio_processing/ns/nsx_core.c
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/ns/defines.h
+END
+nsx_core_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5393/trunk/webrtc/modules/audio_processing/ns/nsx_core_c.c
+END
+nsx_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5393/trunk/webrtc/modules/audio_processing/ns/nsx_core.h
+END
+noise_suppression.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6385/trunk/webrtc/modules/audio_processing/ns/noise_suppression.c
+END
+ns_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6385/trunk/webrtc/modules/audio_processing/ns/ns_core.c
+END
+nsx_core_neon_offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4116/trunk/webrtc/modules/audio_processing/ns/nsx_core_neon_offsets.c
+END
+windows_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/ns/windows_private.h
+END
+ns_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6385/trunk/webrtc/modules/audio_processing/ns/ns_core.h
+END

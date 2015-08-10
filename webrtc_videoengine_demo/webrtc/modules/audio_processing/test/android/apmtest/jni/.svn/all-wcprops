@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/test/android/apmtest/jni
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/test/android/apmtest/jni/main.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/test/android/apmtest/jni/Android.mk
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2963/trunk/webrtc/modules/audio_processing/test/android/apmtest/jni/Application.mk
+END

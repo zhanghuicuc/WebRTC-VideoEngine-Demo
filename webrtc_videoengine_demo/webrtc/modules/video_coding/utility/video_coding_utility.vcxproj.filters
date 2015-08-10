@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{57CA55B8-BCC5-4000-CE3A-58972F82E9CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\frame_dropper.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClCompile Include="frame_dropper.cc"/>
+    <None Include="video_coding_utility.gyp"/>
+  </ItemGroup>
+</Project>

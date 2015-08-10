@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6606/trunk/webrtc/modules/remote_bitrate_estimator/test
+END
+bwe_test_framework.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6600/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_framework.h
+END
+bwe_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6600/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test.cc
+END
+bwe_test_fileutils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5658/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_fileutils.cc
+END
+bwe_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6218/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test.h
+END
+bwe_test_fileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6218/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_fileutils.h
+END
+bwe_test_baselinefile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6218/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_baselinefile.cc
+END
+bwe_plot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5494/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_plot.sh
+END
+bwe_test_baselinefile.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5204/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_baselinefile.h
+END
+bwe_test_logging.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5658/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_logging.cc
+END
+bwe_test_logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6218/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_logging.h
+END
+bwe_test_framework_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6606/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_framework_unittest.cc
+END
+bwe_test_framework.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6600/trunk/webrtc/modules/remote_bitrate_estimator/test/bwe_test_framework.cc
+END

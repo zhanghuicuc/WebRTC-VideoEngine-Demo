@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6917/trunk/webrtc/modules/audio_coding/main/acm2
+END
+acm_gsmfr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_gsmfr.cc
+END
+acm_isac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_isac.cc
+END
+initial_delay_manager_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6346/trunk/webrtc/modules/audio_coding/main/acm2/initial_delay_manager_unittest.cc
+END
+acm_pcma.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_pcma.cc
+END
+acm_isac.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_isac.h
+END
+acm_g722.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g722.cc
+END
+acm_speex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6667/trunk/webrtc/modules/audio_coding/main/acm2/acm_speex.cc
+END
+audio_coding_module_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6869/trunk/webrtc/modules/audio_coding/main/acm2/audio_coding_module_impl.cc
+END
+acm_g729.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g729.h
+END
+acm_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5974/trunk/webrtc/modules/audio_coding/main/acm2/acm_resampler.h
+END
+nack.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/nack.h
+END
+acm_codec_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/main/acm2/acm_codec_database.cc
+END
+acm_pcmu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_pcmu.cc
+END
+acm_receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/main/acm2/acm_receiver.h
+END
+audio_coding_module_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6884/trunk/webrtc/modules/audio_coding/main/acm2/audio_coding_module_unittest.cc
+END
+acm_ilbc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_ilbc.cc
+END
+acm_red.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_red.cc
+END
+acm_generic_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6869/trunk/webrtc/modules/audio_coding/main/acm2/acm_generic_codec.h
+END
+acm_g7291.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g7291.h
+END
+acm_gsmfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_gsmfr.h
+END
+initial_delay_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6346/trunk/webrtc/modules/audio_coding/main/acm2/initial_delay_manager.cc
+END
+acm_receive_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6549/trunk/webrtc/modules/audio_coding/main/acm2/acm_receive_test.h
+END
+acm_celt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_celt.cc
+END
+acm_g729.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g729.cc
+END
+acm_celt.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_celt.h
+END
+acm_common_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4785/trunk/webrtc/modules/audio_coding/main/acm2/acm_common_defs.h
+END
+audio_coding_module_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6869/trunk/webrtc/modules/audio_coding/main/acm2/audio_coding_module_impl.h
+END
+audio_coding_module.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6549/trunk/webrtc/modules/audio_coding/main/acm2/audio_coding_module.gypi
+END
+nack.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/nack.cc
+END
+acm_receiver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/main/acm2/acm_receiver.cc
+END
+acm_g7221c.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g7221c.cc
+END
+call_statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5287/trunk/webrtc/modules/audio_coding/main/acm2/call_statistics.h
+END
+acm_dtmf_playout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_dtmf_playout.cc
+END
+audio_coding_module.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6008/trunk/webrtc/modules/audio_coding/main/acm2/audio_coding_module.cc
+END
+acm_dtmf_playout.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_dtmf_playout.h
+END
+acm_amrwb.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_amrwb.h
+END
+acm_red.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_red.h
+END
+acm_amr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_amr.cc
+END
+acm_amr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_amr.h
+END
+acm_g722.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_g722.h
+END
+acm_opus_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6902/trunk/webrtc/modules/audio_coding/main/acm2/acm_opus_unittest.cc
+END
+acm_isac_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_isac_macros.h
+END
+acm_opus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6917/trunk/webrtc/modules/audio_coding/main/acm2/acm_opus.cc
+END
+acm_pcm16b.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_pcm16b.h
+END
+acm_g7221.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g7221.cc
+END
+acm_codec_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6367/trunk/webrtc/modules/audio_coding/main/acm2/acm_codec_database.h
+END
+call_statistics_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5287/trunk/webrtc/modules/audio_coding/main/acm2/call_statistics_unittest.cc
+END
+acm_cng.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_cng.cc
+END
+acm_amrwb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_amrwb.cc
+END
+acm_cng.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_cng.h
+END
+acm_g7291.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g7291.cc
+END
+acm_generic_codec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6869/trunk/webrtc/modules/audio_coding/main/acm2/acm_generic_codec.cc
+END
+acm_ilbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_ilbc.h
+END
+acm_neteq_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_neteq_unittest.cc
+END
+acm_receive_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6549/trunk/webrtc/modules/audio_coding/main/acm2/acm_receive_test.cc
+END
+acm_pcma.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_pcma.h
+END
+initial_delay_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6346/trunk/webrtc/modules/audio_coding/main/acm2/initial_delay_manager.h
+END
+acm_speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_speex.h
+END
+acm_pcm16b.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_pcm16b.cc
+END
+acm_opus.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6869/trunk/webrtc/modules/audio_coding/main/acm2/acm_opus.h
+END
+acm_resampler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6022/trunk/webrtc/modules/audio_coding/main/acm2/acm_resampler.cc
+END
+nack_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5985/trunk/webrtc/modules/audio_coding/main/acm2/nack_unittest.cc
+END
+acm_receiver_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6843/trunk/webrtc/modules/audio_coding/main/acm2/acm_receiver_unittest.cc
+END
+acm_g7221.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g7221.h
+END
+call_statistics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5658/trunk/webrtc/modules/audio_coding/main/acm2/call_statistics.cc
+END
+acm_pcmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6526/trunk/webrtc/modules/audio_coding/main/acm2/acm_pcmu.h
+END
+acm_g7221c.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4933/trunk/webrtc/modules/audio_coding/main/acm2/acm_g7221c.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5903/trunk/webrtc/modules/audio_coding/main/acm2/OWNERS
+END
