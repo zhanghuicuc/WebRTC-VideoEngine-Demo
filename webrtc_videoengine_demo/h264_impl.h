@@ -16,16 +16,20 @@
 #include <stdint.h>
 #include "h264.h"
 
-#ifdef USEOPENH264 
+#if USEOPENH264 
 // OpenH264 headers
 #include "H264/include/codec_api.h"
 #include "H264/include/codec_def.h"
 #include "H264/include/codec_app_def.h"
 #elif USEX264
-//x264 headers
+#define __STDC_CONSTANT_MACROS
+//x264 and ffmpeg headers
 extern "C"
 {
 	#include "H264/include/x264.h"
+	#include "ffmpeg/libavcodec/avcodec.h"
+	#include "ffmpeg/libavformat/avformat.h"
+	#include "ffmpeg/libswscale/swscale.h"
 }
 #endif
 
@@ -121,31 +125,24 @@ namespace webrtc {
   EncodedImageCallback* encoded_complete_callback_;
   VideoCodec codec_;
   bool inited_;
-  bool first_frame_encoded_;
-  int64_t timestamp_;
 
-#ifdef USEOPENH264
+#if USEOPENH264
   ISVCEncoder* encoder_;
 #elif  USEX264
   //x264
-  int width=0, height=0;
-  x264_param_t param;
   x264_picture_t pic;
   x264_picture_t pic_out;
-  x264_t *h;
+  x264_t *encoder_;
   int i_frame = 0;
-  int i_frame_size=0;
   x264_nal_t *nal;
-  int i_nal=0;
-  FILE* outfile;
 #endif
 };  // end of H264Encoder class
 
-#ifdef USEOPENH264
+
 	class H264DecoderImpl : public H264Decoder {
  public:
   enum {
-    MAX_ENCODED_IMAGE_SIZE = 10240
+	  MAX_ENCODED_IMAGE_SIZE = 32768
   };
 
   H264DecoderImpl();
@@ -213,13 +210,24 @@ namespace webrtc {
   I420VideoFrame decoded_image_;
   DecodedImageCallback* decode_complete_callback_;
   bool inited_;
-  ISVCDecoder* decoder_;
   VideoCodec codec_;
-  EncodedImage last_keyframe_;
   bool key_frame_required_;
+#if USEOPENH264
+  ISVCDecoder* decoder_;
   unsigned char* buffer_with_start_code_;
-};  // end of H264Decoder class
+#elif USEX264
+  AVCodecContext	*pCodecCtx;
+  AVCodec			*pCodec;
+  AVFrame	*pFrame, *pFrameYUV;
+  AVPacket *packet;
+  struct SwsContext *img_convert_ctx;
+  uint8_t *decode_buffer;
+  uint8_t *out_buffer;
+  int framecnt = 0;
+  int encoded_length = 0;
 #endif
+};  // end of H264Decoder class
+
 }  // namespace webrtc
 
 #endif  // WEBRTC_MODULES_VIDEO_CODING_CODECS_H264_IMPL_H_

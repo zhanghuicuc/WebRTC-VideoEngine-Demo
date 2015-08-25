@@ -22,9 +22,7 @@
 #include "webrtc/video_engine/vie_autotest_window_manager_interface.h"
 #include "webrtc/video_engine/vie_window_creator.h"
 
-#define USEVP8 1
-#define USEOPENH264 0
-#define USEX264 0
+#include "main.h"
 
 #if USEOPENH264 || USEX264
 #include "h264.h"
@@ -350,7 +348,7 @@ int VideoEngineSample(void* window1, void* window2)
 		return -1;
 	}
 
-#ifdef USEOPENH264
+
 	error = ptrViERender->AddRenderer(videoChannel, window2, 1, 0.0, 0.0, 1.0,
 		1.0);
 	if (error == -1)
@@ -365,7 +363,7 @@ int VideoEngineSample(void* window1, void* window2)
 		printf("ERROR in ViERender::StartRender\n");
 		return -1;
 	}
-#endif
+
 	//
 	// Setup codecs
 	//
@@ -378,17 +376,14 @@ int VideoEngineSample(void* window1, void* window2)
 
 #if USEOPENH264 || USEX264
 	webrtc::H264Encoder *h264encoder = webrtc::H264Encoder::Create();
-#if USEOPENH264
 	webrtc::H264Decoder *h264decoder = webrtc::H264Decoder::Create();
-#endif
+
 	webrtc::ViEExternalCodec* external_codec = webrtc::ViEExternalCodec
 		::GetInterface(ptrViE);
-	external_codec->RegisterExternalSendCodec(videoChannel, 103,
+	external_codec->RegisterExternalSendCodec(videoChannel, 88,
 		h264encoder, false);
-#ifdef USEOPENH264
 	external_codec->RegisterExternalReceiveCodec(videoChannel,
-		103, h264decoder, false);
-#endif
+		88, h264decoder, false);
 #endif
 
 	VideoCodec videoCodec;
@@ -413,17 +408,15 @@ int VideoEngineSample(void* window1, void* window2)
 	videoCodec.minBitrate = 200;
 	videoCodec.maxBitrate = 300;
 #if USEOPENH264 || USEX264
-	videoCodec.plType = 103;
+	videoCodec.plType = 88;
 #endif
 	videoCodec.maxFramerate = 25;
 
 	error = ptrViECodec->SetSendCodec(videoChannel, videoCodec);
 	assert(error != -1);
 
-#if USEOPENH264
 	error = ptrViECodec->SetReceiveCodec(videoChannel, videoCodec);
 	assert(error != -1);
-#endif
 	//
 	// Address settings
 	//
@@ -506,7 +499,7 @@ int VideoEngineSample(void* window1, void* window2)
 		return -1;
 	}
 
-#ifdef USEOPENH264
+
 	error = ptrViERender->StopRender(videoChannel);
 	if (error == -1)
 	{
@@ -520,7 +513,7 @@ int VideoEngineSample(void* window1, void* window2)
 		printf("ERROR in ViERender::RemoveRenderer\n");
 		return -1;
 	}
-#endif
+
 	error = ptrViECapture->StopCapture(captureId);
 	if (error == -1)
 	{

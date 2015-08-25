@@ -87,12 +87,13 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;WEBRTC_WIN;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalIncludeDirectories>ffmpeg</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>lib;D:\git\webrtc_videoengine_demo\webrtc_videoengine_demo\H264\lib\Debug</AdditionalLibraryDirectories>
-      <AdditionalDependencies>ws2_32.lib;usp10.lib;winmm.lib;crypt32.lib;secur32.lib;Strmiids.lib;dmoguids.lib;wmcodecdspuuid.lib;amstrmid.lib;msdmo.lib;welsecore.lib;welsenc.lib;WelsVP.lib;welsdec.lib;welsdcore.lib;libx264-146.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>lib;H264\lib\Debug;ffmpeg\lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>ws2_32.lib;usp10.lib;winmm.lib;crypt32.lib;secur32.lib;Strmiids.lib;dmoguids.lib;wmcodecdspuuid.lib;amstrmid.lib;msdmo.lib;welsenc.lib;welsdec.lib;libx264-146.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -123,15 +124,17 @@
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_LIB;WEBRTC_WIN;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <AdditionalIncludeDirectories>ffmpeg</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalLibraryDirectories>lib_r;D:\git\webrtc_videoengine_demo\webrtc_videoengine_demo\H264\lib\Release</AdditionalLibraryDirectories>
-      <AdditionalDependencies>ws2_32.lib;usp10.lib;winmm.lib;crypt32.lib;secur32.lib;Strmiids.lib;dmoguids.lib;wmcodecdspuuid.lib;amstrmid.lib;msdmo.lib;welsecore.lib;welsenc.lib;WelsVP.lib;welsdec.lib;welsdcore.lib;libx264-146.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>lib_r;H264\lib\Release;ffmpeg\lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>ws2_32.lib;usp10.lib;winmm.lib;crypt32.lib;secur32.lib;Strmiids.lib;dmoguids.lib;wmcodecdspuuid.lib;amstrmid.lib;msdmo.lib;welsenc.lib;welsdec.lib;libx264-146.lib;avcodec.lib;avformat.lib;swscale.lib;avutil.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <IgnoreSpecificDefaultLibraries>LIBCMTD.lib</IgnoreSpecificDefaultLibraries>
+      <AdditionalOptions> /SAFESEH:NO %(AdditionalOptions)</AdditionalOptions>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -166,6 +169,7 @@
   <ItemGroup>
     <ClInclude Include="h264.h" />
     <ClInclude Include="h264_impl.h" />
+    <ClInclude Include="main.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
